@@ -26,8 +26,4 @@ ratings:
   - "**.rb"
 exclude_paths:
 - test/
-<<<<<<< HEAD
 - "*/migrations/"
-=======
-- "*/migrations/"
->>>>>>> 50a000f4b138f5659beb073f456ea54792a53784
