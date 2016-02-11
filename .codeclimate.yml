@@ -27,7 +27,4 @@ ratings:
 exclude_paths:
 - test/
 - migrations/
-- /migrations/
-- "*/migrations/"
-- "**/migrations/"
-- "*/**/migrations/"
+- "**/migrations/**"
